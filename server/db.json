@@ -1,0 +1,38 @@
+{
+  "collection": [
+    {
+      "id": 1,
+      "title": "Monedas Conmemorativas de Oro",
+      "country": "Estados Unidos",
+      "state": "Uncirculated",
+      "collectionType": 1,
+      "size": 5
+    }
+  ],
+  "historicalobjects": [
+    {
+      "id": 1,
+      "name": "1907 Saint-Gaudens Double Eagle",
+      "CoinId": 101,
+      "collectionTypeId": 1,
+      "yearProduction": 1907,
+      "coinCollectionId": 1,
+      "summary": "Pieza histórica de oro puro acuñada en EE.UU.",
+      "legends": "LIBERTY - IN GOD WE TRUST",
+      "price": 38000.0,
+      "registeredAt": "2026-10-12T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "1933 Saint-Gaudens Double Eagle",
+      "CoinId": 102,
+      "collectionTypeId": 1,
+      "yearProduction": 1933,
+      "coinCollectionId": 1,
+      "summary": "Rara moneda de doble águila de oro.",
+      "legends": "LIBERTY - TWENTY DOLLARS",
+      "price": 18900000.0,
+      "registeredAt": "2026-10-12T10:30:00.000Z"
+    }
+  ]
+}

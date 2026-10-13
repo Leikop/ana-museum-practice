@@ -1,0 +1,4 @@
+{
+  "comment": "Not required by the statement (endpoints are consumed at the root: /collection and /historicalobjects). Kept here only as a reference in case your course convention later asks you to version the API under /api/v1/*.",
+  "/api/v1/*": "/$1"
+}

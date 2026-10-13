@@ -1,0 +1,38 @@
+{
+  "app": {
+    "title": "ANA Museum",
+    "tagline": "ANA ayuda a las personas a descubrir y explorar el mundo del dinero a través de su amplia variedad de programas educativos, incluyendo su museo, biblioteca, convenciones, seminarios, publicaciones y programas de difusión."
+  },
+  "nav": {
+    "home": "Inicio",
+    "new-historical-object": "Nuevo Objeto Histórico"
+  },
+  "home": {
+    "title": "Inicio",
+    "content": "Museo Edward C Rochette",
+    "collections-section": "Colecciones",
+    "collections-title": "Colecciones Históricas",
+    "no-historical-object": "Sin Objeto Histórico",
+    "total-price": "Precio Total",
+    "available-size": "Tamaño Disponible"
+  },
+  "new-historical-object": {
+    "title": "Nuevo Objeto Histórico",
+    "subtitle": "Agregue Objetos Históricos a su Colección.",
+    "collection": "Colección",
+    "collection-placeholder": "Seleccione una colección",
+    "coin": "Moneda",
+    "coin-placeholder": "Seleccione una moneda",
+    "create": "Crear",
+    "cancel": "Cancelar",
+    "collection-full": "Esta colección ya no tiene espacio disponible."
+  },
+  "not-found": {
+    "title": "Página No Encontrada",
+    "message": "No pudimos encontrar la ruta \"{path}\".",
+    "back-home": "Volver a Inicio"
+  },
+  "errors": {
+    "occurred": "Ocurrió un error"
+  }
+}
